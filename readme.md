@@ -1,0 +1,1 @@
+plagiarized off of [this](https://github.com/daliusd/qmk_firmware/blob/daliusd-redox/keyboards/ferris/keymaps/daliusd/keymap.c) and [this](https://github.com/callum-oakley/qmk_firmware/tree/master/users/callum)
